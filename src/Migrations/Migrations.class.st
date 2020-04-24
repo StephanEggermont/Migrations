@@ -5,6 +5,17 @@ The difficulty of doing migrations well is often underestimated. At first sight 
 
 !! Preconditions
 
+For a migration to be plannable, there needs to be sufficient knowledge available on all relevant aspects of the migration. This includes 
+- knowledge of the old system 
+- knowledge of the new system 
+- knowledge of migrations
+Common problems with this are:
+- insufficient knowledge of the old system. 
+- no interest in success for the maintainers of the old system 
+- underestimation of the migration scope 
+- technical debt in the old system 
+- too many intermediates in the communication for effective decision making
+
 !! Daily visualizations
 
 !! An idealized migration model  
