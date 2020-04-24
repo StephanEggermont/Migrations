@@ -26,6 +26,14 @@ Making a daily visualization of either the work done that day or demonstrating t
 
 !! An idealized migration model  
 
+A succesfull migration can only be done if there is confidence in the approach. This confidence comes from showing
+- a path to success 
+- early results 
+- handling the difficult problems early
+- delivering in order of value
+
+Parnass described in his ""a rational design process, how and why to fake it"" the importance of showing how something could have been done, with perfect hindsight. The way things are actually done is much more chaotic than it is finally presented. For the reader it is important to understand how the migration could ideally have been done, had all the needed knowledge been available before the project started.
+
 
 "
 Class {
